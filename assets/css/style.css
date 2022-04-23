@@ -1,0 +1,105 @@
+.bg-morado{
+    background-color: #326D8D;
+}
+.logo{
+    font-family: "Oswald";
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.menu{
+    font-family: "Open Sans";
+    font-size: 16px;
+    
+}
+
+.foto-autor{
+    background-image: url(../img/bg_hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    background-position: center;    
+    color: #ffffff;
+     
+}
+
+.foto-autor hr{
+    background-color:#ffffff;
+    border-width: 2px;
+    width: 46%;
+
+}
+
+.texto-autor{
+    padding-top: 700px;
+    font-family: "Oswald";
+}
+
+.texto-autor h2{
+    font-size: 72px;
+}
+
+.texto-autor h1{
+    font-size: 96px;
+    font-weight: 800;
+}
+
+h4{
+   font-family: "Open Sans";
+   font-weight: 600;
+   line-height: 45px; 
+}
+
+.presentacion{
+    font-family: "Open Sans";
+    font-weight: 400;
+    line-height: 45px;
+    font-size: 16px;
+    color: #373A3C;
+ 
+}
+
+h3{
+    font-family: "Open Sans";
+    font-size: 40px;
+    font-weight: 400px;
+    line-height: 60px;
+}
+
+hr{
+    background-color:#373A3C;
+    border-width: 2px;
+    width: 10%;
+
+}
+
+#work hr{
+    background-color:white;
+    border-width: 2px;
+    width: 10%;
+
+}
+
+/*
+
+.icono-morado{
+    color: #326D8D;
+}
+
+*/
+
+.card-title{
+    font-family: "Oswald";
+}
+
+.card-text{
+    font-family: "Open Sans";
+    line-height: 25px;
+}
+
+.magdalena{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color:#ffffff
+}
